@@ -1,4 +1,13 @@
 # Table of contents
 
-* [主页面](README.md)
-  * [子页面](zhu-ye-mian/zi-ye-mian.md)
+* [Gate Fun](README.md)
+* [前言](qian-yan.md)
+* [目录](mu-lu.md)
+* [市场背景](shi-chang-bei-jing.md)
+* [平台定位与价值](ping-tai-ding-wei-yu-jia-zhi.md)
+* [产品机制](chan-pin-ji-zhi.md)
+* [平台功能](ping-tai-gong-neng.md)
+* [收益分配模型](shou-yi-fen-pei-mo-xing.md)
+* [风险与安全性](feng-xian-yu-an-quan-xing.md)
+* [路线图](lu-xian-tu.md)
+* [联系我们](lian-xi-wo-men.md)
