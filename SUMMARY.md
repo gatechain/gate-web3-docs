@@ -4,6 +4,7 @@
 * [前言](qian-yan.md)
 * [Page 1](page-1.md)
 * [创建代币](chuang-jian-dai-bi.md)
+* [创作者奖励](chuang-zuo-zhe-jiang-li.md)
 * [市场背景](shi-chang-bei-jing.md)
 * [平台定位与价值](ping-tai-ding-wei-yu-jia-zhi.md)
 * [产品机制](chan-pin-ji-zhi.md)
