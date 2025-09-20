@@ -14,6 +14,8 @@
 ## 功能
 
 * [社区 CTO](gong-neng/she-qu-cto.md)
+* [交易](gong-neng/jiao-yi.md)
+* [治理](gong-neng/zhi-li.md)
 * [平台功能](gong-neng/ping-tai-gong-neng.md)
 
 ## 协议
