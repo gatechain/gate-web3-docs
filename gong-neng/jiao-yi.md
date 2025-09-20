@@ -12,4 +12,4 @@ Gate Fun 的交易功能不仅仅局限于平台内部 — 通过与 Gate 生态
 
 
 
-* Gate Alpha：作为 Gate 的 on-chain 资产交易先锋，Gate Alpha 将优先支持 Gate Fun 代币的展示与交易。用户无需 Web3 钱包，即可使用 USDT 或者 GT  一键买入 Gate Fun 推出的 meme 代币，快速发现并交易高潜力项目。
+* Gate Alpha：作为 Gate 的 on-chain 资产交易先锋，Gate Alpha 将优先支持 Gate Fun 代币的展示与交易。用户无需 Web3 钱包，即可使用 USDT 或者 GT  一键买入 Gate Fun 推出的 Meme 代币，快速发现并交易高潜力项目。
