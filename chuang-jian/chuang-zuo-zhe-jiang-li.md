@@ -37,7 +37,7 @@ Gate Fun 为 Meme 代币创作者打造一个透明、公平的舞台，让你�
 
 
 
-    * 项目市值达到或超过 100 万 USD 时，你将获得每笔交易 **0.15%** 手续费奖励，确保长期收益。
+    * 项目市值达到或超过 100 万 USD 时，你将获得每笔交易 **0.05%** 手续费奖励，确保长期收益。
 
 
 
@@ -45,7 +45,7 @@ Gate Fun 为 Meme 代币创作者打造一个透明、公平的舞台，让你�
 
 
 
-公平分配为支持 GateLayer 生态的可持续发展，毕业后的交易手续费奖励默认进入 Gate Fun 生态池，用于奖励核心贡献者及社区活动。创作者或 CTO 团队可通过以下方式领取你的专属收益：
+公平分配为支持 GateLayer 生态的可持续发展，毕业后的交易手续费奖励默认进入 Gate Fun 生态池，用于奖励核心贡献者及社区活动。创作者或 CTO 团队可通过以下方式领取你的收益：
 
-* 简单申领：通过 Gate Fun 提供的 **「**[**申请表单**](https://docs.google.com/forms/d/e/1FAIpQLSdeSu8Bo3amonra4QjNRIRBn_7OBsnX3luocqPdQ8kz4GBMow/viewform?usp=sharing\&ouid=116455810822896001332)**」** ，提交创作者或 CTO 身份及代币信息。
+* 简单申领：通过 Gate Fun 提供的 **「**[**申请表单**](https://docs.google.com/forms/d/e/1FAIpQLSdeSu8Bo3amonra4QjNRIRBn_7OBsnX3luocqPdQ8kz4GBMow/viewform?usp=sharing\&ouid=116455810822896001332)**」** ，提交创作者或 CTO 身份及代币信息。若申领成功，后续的手续费将发往登记的地址。
 * 透明高效：审核通过后，你的后续手续费奖励将直接发放至指定地址，流程清晰，公开可查。
