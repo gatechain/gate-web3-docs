@@ -8,7 +8,7 @@ Gate Fun 是 GateLayer 生态下的 Meme 代币发射平台，通过智能合约
 
 
 
-Gate Fun 不仅简化 Meme 代币的创作与交易流程，还通过深度连接 GateLayer 生态和 Gate Alpha，成为中小型项目和 Meme 文化的强力跳板，助力创意快速转化为社区驱动的价值。
+Gate Fun 不仅简化 Meme 代币的创作与交易流程，还通过深度连接 Gate Web3、Gate Wallet、 GateLayer 生态和 Gate Alpha，成为中小型项目和 Meme 文化的强力跳板，助力创意快速转化为社区驱动的价值。
 
 
 
