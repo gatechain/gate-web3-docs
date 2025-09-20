@@ -25,7 +25,7 @@
 * [生态池](xie-yi/sheng-tai-chi.md)
 * [路线图](xie-yi/lu-xian-tu.md)
 
-***
+## 更多
 
-* [风险与安全性](feng-xian-yu-an-quan-xing.md)
-* [联系我们](lian-xi-wo-men.md)
+* [风险与安全性](geng-duo/feng-xian-yu-an-quan-xing.md)
+* [联系我们](geng-duo/lian-xi-wo-men.md)
